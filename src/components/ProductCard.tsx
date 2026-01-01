@@ -48,7 +48,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 
                 <div className={styles.action}>
                     <div style={{ flex: 1, display: 'flex', justifyContent: 'flex-start' }}>
-                        <AddToCartButton product={product} />
+                        <AddToCartButton product={{ ...product, price: product.price ?? 0 }} />
                     </div>
 
                     <Link href={`/products/${product.id}`} className={styles.link} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', textDecoration: 'none', color: 'inherit', fontWeight: 600 }}>

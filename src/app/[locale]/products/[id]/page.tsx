@@ -92,8 +92,8 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                     </p>
 
                     <div style={{ display: 'flex', gap: '1rem', flexDirection: 'column' }}>
-                        <AddToCartButton product={product} isBuyNow={true} />
-                        <AddToCartButton product={product} />
+                        <AddToCartButton product={{ ...product, price: product.price ?? 0 }} isBuyNow={true} />
+                        <AddToCartButton product={{ ...product, price: product.price ?? 0 }} />
                     </div>
                 </div>
             </div>
