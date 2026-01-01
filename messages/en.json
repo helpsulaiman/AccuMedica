@@ -1,0 +1,149 @@
+{
+  "HomePage": {
+    "title": "Accumedica",
+    "welcome": "Welcome to Accumedica",
+    "heroTitle": "Premium Medical Supplies for a Healthier Tomorrow",
+    "heroSubtitle": "Trusted partner for hospitals, clinics, and healthcare professionals in Kuwait.",
+    "cta": "Explore Products",
+    "productsTitle": "Our Products",
+    "comingSoon": "Coming soon...",
+    "currency": "KWD"
+  },
+  "Navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "cart": "Cart"
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your dashboard",
+    "orders": "Orders",
+    "ordersTitle": "All Orders",
+    "backToDashboard": "Back to Dashboard",
+    "noOrders": "No orders found.",
+    "viewOrders": "View All Orders",
+    "manageProducts": "Manage Products",
+    "manageProductsDesc": "View, add, edit, and delete products.",
+    "orderId": "Order ID",
+    "customer": "Customer",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "items": "Items",
+    "view": "View"
+  },
+  "Cart": {
+    "title": "Shopping Cart",
+    "currency": "KWD",
+    "empty": "Your cart is empty",
+    "emptyMessage": "Looks like you haven't added any items yet.",
+    "browse": "Browse Products",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "clear": "Clear Cart"
+  },
+  "Footer": {
+    "rights": "© 2025 Accumedica. All rights reserved."
+  },
+  "ProductsPage": {
+    "title": "Our Products",
+    "description": "Explore our wide range of medical supplies and equipment."
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "description": "Learn more about Accumedica and our mission to provide quality healthcare solutions."
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "We'd love to hear from you. Please fill out this form or reach out to us using the contact details below.",
+    "getInTouch": "Get in Touch",
+    "phone": "Phone Number",
+    "email": "Email Address"
+  },
+  "ContactForm": {
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "subject": "Subject",
+    "subjectPlaceholder": "How can we help you?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us more about your inquiry...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "sent": "Message Sent!"
+  },
+  "Products": {
+    "currency": "KWD",
+    "viewDetails": "View Details",
+    "categories": {
+      "furniture": "Hospital Furniture",
+      "diagnostics": "Diagnostics",
+      "consumables": "Consumables",
+      "equipment": "Medical Equipment",
+      "mobility": "Mobility Aids"
+    },
+    "hospital-bed-advanced": {
+      "name": "Advanced Hospital Bed",
+      "description": "Electric ICU bed with multiple adjustments, integrated scale, and advanced mattress support system."
+    },
+    "digital-stethoscope": {
+      "name": "Digital Stethoscope Pro",
+      "description": "High-fidelity digital stethoscope with noise cancellation and recording capabilities."
+    },
+    "surgical-mask-pro": {
+      "name": "Surgical Masks (Box of 50)",
+      "description": "3-ply medical grade surgical masks with high filtration efficiency and comfortable ear loops."
+    },
+    "vital-monitor-x1": {
+      "name": "Vital Signs Monitor X1",
+      "description": "Compact multi-parameter patient monitor for continuous tracking of vital signs."
+    },
+    "wheelchair-ergonomic": {
+      "name": "Ergonomic Wheelchair",
+      "description": "Lightweight foldable wheelchair with ergonomic seating and durable tires for daily use."
+    },
+    "infusion-pump-auto": {
+      "name": "Auto Infusion Pump",
+      "description": "Precise volumetric infusion pump with touch screen interface and multiple safety modes."
+    },
+    "backToProducts": "Back to Products",
+    "contactForPrice": "Contact for Price",
+    "buyNow": "Buy Now",
+    "addToCart": "Add to Cart",
+    "notFound": "Product Not Found"
+  },
+  "Checkout": {
+    "title": "Checkout",
+    "currency": "KWD",
+    "empty": "Your cart is empty",
+    "backToProducts": "Back to Products",
+    "summary": "Order Summary",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "address": "Address",
+    "city": "City",
+    "paymentMethod": "Payment Method",
+    "cod": "Cash on Delivery",
+    "knet": "KNET (Simulated)",
+    "creditCard": "Credit Card (Simulated)",
+    "placeOrder": "Place Order",
+    "processing": "Processing...",
+    "success": "Order placed successfully!",
+    "error": "An unexpected error occurred.",
+    "shippingNote": "* Shipping is free for a limited time."
+  },
+  "OrderSuccess": {
+    "title": "Thank you for your order!",
+    "message": "We have received your order and will process it shortly.",
+    "orderId": "Order ID",
+    "continueShopping": "Continue Shopping"
+  }
+}
